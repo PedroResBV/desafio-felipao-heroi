@@ -1,9 +1,9 @@
 
 class heroi{
-	constructor(nomeHeroi, idadeHeroi, tipoHeroi){
-    	this.nomeHeroi = nomeHeroi
-        this.idadeHeroi= idadeHeroi
-        this.tipoHeroi = tipoHeroi
+	constructor(nome, idade, tipo){
+    	this.nomeHeroi = nome
+        this.idadeHeroi= idade
+        this.tipoHeroi = tipo
     }
     
     atacar(){
